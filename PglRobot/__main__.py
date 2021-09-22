@@ -73,17 +73,18 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is {}! 
-I am a  Powerfull  group management bot. You can find my list of available commands with /help.
+HI {}, MY NAME IS {}! 
+I AM A  POWERFULL  GROUP MANAGEMENT BOT. YOU CAN FIND MY LIST OF AVAILABLE COMMANDS WITH /help.
 """
 G_START_TEXT = """
-Hello PglRobot Is In The Chat.
-Uptime - {}!
+
+HELLO BLAZEBOT IS IN THE CHAT.
+UPTIME - {}!
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a Heroine For Fun and help admins to manage their groups! Have a look at the following for an idea of some of \
+HEY THERE! MY NAME IS *{}*.
+I'M a Heroine For Fun and help admins to manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
  • /help: PM's you this message.
@@ -106,9 +107,9 @@ PglRobot_IMG = "https://telegra.ph/file/f1d7b30b05ba9f0dbf4e5.jpg"
 PglRobotG_IMG = "https://telegra.ph/file/e8881931bc000c75e8f13.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting [Gaurav Verma](https://t.me/iisgaurav).
- Using [PayPal](paypal.me/iisgaurav).
- Those who cannot provide monetary support are welcome to help us develop the bot at @VegaCodes.
+ You can support the project by contacting
+ Using 
+.
  """
 
 IMPORTED = {}
@@ -239,13 +240,13 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
-                                url="https://t.me/VCUpdates",
+                                url="https://t.me/the_blaze_network",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="SOURCE CODE ⚡️",
-                                url="https://github.com/iisgaurav/PglRobot",
+                                text="CHAT HUB ⚡️",
+                                url="https://t.me/Mafia_chat_g",
                             ),
                         ],
                     ]
