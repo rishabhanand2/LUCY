@@ -102,9 +102,9 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-PglRobot_IMG = "https://telegra.ph/file/a6f6c7736003e4b8786b3.jpg"
+PglRobot_IMG = "https://telegra.ph/file/1c7c9971eee32065cf7f8.jpg"
 
-PglRobotG_IMG = "https://telegra.ph/file/a6f6c7736003e4b8786b3.jpg"
+PglRobotG_IMG = "https://telegra.ph/file/1c7c9971eee32065cf7f8.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting
@@ -228,7 +228,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="ADD ME IN YOUR GROUP ⚡️",
-                                url="t.me/{}?startgroup=true".format(
+                                url="t.me/LUCY_MANAGER_bot?startgroup=true".format(
                                     context.bot.username
                                 ),
                             ),
@@ -240,7 +240,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
-                                url="https://t.me/the_blaze_network",
+                                url="https://t.me/legenduser2",
                             ),
                         ],
                         [
