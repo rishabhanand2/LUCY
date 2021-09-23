@@ -3,7 +3,7 @@
 # 🖤 𝐋𝐔𝐂𝐘 𝐁𝐎𝐓 🖤 
 
  <p align="center">
-  <img src="https://telegra.ph/file/1c7c9971eee32065cf7f8.jpg">
+  <img src="https://telegra.ph/file/faaba2e4d34988fc8a46f.jpg">
 </p>
 
 ## <b>『𝐃𝐄𝐏𝐋𝐎𝐘 𝐓𝐎 𝐇𝐄𝐑𝐎𝐊𝐔』</b>
