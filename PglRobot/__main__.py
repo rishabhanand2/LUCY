@@ -78,7 +78,7 @@ I AM A  POWERFULL  GROUP MANAGEMENT BOT. YOU CAN FIND MY LIST OF AVAILABLE COMMA
 """
 G_START_TEXT = """
 
-HELLO BLAZEBOT IS IN THE CHAT.
+HELLO LUCYBOT IS IN THE CHAT.
 UPTIME - {}!
 """
 
@@ -102,9 +102,9 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-PglRobot_IMG = "https://telegra.ph/file/1c7c9971eee32065cf7f8.jpg"
+PglRobot_IMG = "https://telegra.ph/file/faaba2e4d34988fc8a46f.jpg"
 
-PglRobotG_IMG = "https://telegra.ph/file/1c7c9971eee32065cf7f8.jpg"
+PglRobotG_IMG = "https://telegra.ph/file/faaba2e4d34988fc8a46f.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project by contacting
