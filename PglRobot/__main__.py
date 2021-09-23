@@ -240,7 +240,7 @@ def start(update: Update, context: CallbackContext):
                             ),
                             InlineKeyboardButton(
                                 text="UPDATES ⚡️",
-                                url="https://t.me/legenduser2",
+                                url="https://t.me/LOCYS",
                             ),
                         ],
                         [
@@ -630,7 +630,7 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}", "PglRobot now ready to work!"
+                f"@{SUPPORT_CHAT}", "lucybot now ready to work!"
             )
         except Unauthorized:
             LOGGER.warning(
