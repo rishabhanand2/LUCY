@@ -625,7 +625,7 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}", "Locybot now ready to work!"
+                f"@{SUPPORT_CHAT}", "PglRobot now ready to work!"
             )
         except Unauthorized:
             LOGGER.warning(
