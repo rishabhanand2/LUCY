@@ -193,7 +193,7 @@ PAT_STICKERS = (
 )
 
 PING_STRING = (
-    "PONG!!",
+    "LUCY!!",
     "I am here!",
 )
 
