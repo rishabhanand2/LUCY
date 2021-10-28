@@ -74,7 +74,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
-I am a  Powerfull  group management bot. You can find my list of available commands with /help.
+I am a  Powerfull  group management bot. You can find my list of available commands with /help my creator @mafiarishabh for any isu contact my owner.
 """
 G_START_TEXT = """
 HELLO LUCYBOT IS IN THE CHAT.
@@ -240,8 +240,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="CHAT HUB ⚡️",
-                                url="https://t.me/Mafia_chat_g",
+                                text="OWNER⚡️",
+                                url="https://t.me/MAFIARISHABH",
                             ),
                         ],
                     ]
